@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Xml.Linq;
-using TeduShop.Model.Abstract;
+using WebShop.Model.Abstract;
 
 namespace TeduShop.Model.Models
 {
